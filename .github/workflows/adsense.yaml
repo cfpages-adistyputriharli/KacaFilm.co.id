@@ -1,9 +1,9 @@
-name: Manual Adsense Script Addition
+name: Auto Adsense Script Addition
 
 on:
   push:
     branches:
-      - main  # Adjust the branch name as needed
+      - main
 
 jobs:
   build:
@@ -12,6 +12,15 @@ jobs:
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v2
+
+      - name: Check if adsense.go exists
+        run: |
+          if [ -f "adsense.go" ]; then
+            echo "adsense.go exists"
+          else
+            echo "adsense.go does not exist, exiting workflow."
+            exit 1
+          fi
 
       - name: Set up Go
         uses: actions/setup-go@v2
@@ -28,8 +37,12 @@ jobs:
         run: |
           git diff --exit-code || echo "CHANGES=true" >> $GITHUB_STATE
 
+      - name: Read Changes from State
+        id: read_state
+        run: echo "CHANGES=$(cat $GITHUB_STATE | grep CHANGES=true)" >> $GITHUB_STATE
+
       - name: Commit and Push Changes
-        if: env.CHANGES == 'true'
+        if: steps.read_state.outputs.CHANGES == 'CHANGES=true'
         run: |
           git config --global user.email "github-actions@github.com"
           git config --global user.name "GitHub Actions"
@@ -38,5 +51,5 @@ jobs:
           git push
 
       - name: Display Message if Nothing Changed
-        if: env.CHANGES != 'true'
+        if: steps.read_state.outputs.CHANGES != 'CHANGES=true'
         run: echo "Nothing changed, nothing to commit"
