@@ -35,7 +35,11 @@ jobs:
 
       - name: Check for Changes
         run: |
-          git diff --exit-code || echo "CHANGES=true" >> $GITHUB_STATE
+          git diff --exit-code || (echo "CHANGES=true" >> $GITHUB_STATE; cat $GITHUB_STATE)
+
+      - name: Check if GITHUB_STATE file exists
+        run: |
+          ls -l $GITHUB_STATE || echo "$GITHUB_STATE does not exist"
 
       - name: Read Changes from State
         id: read_state
