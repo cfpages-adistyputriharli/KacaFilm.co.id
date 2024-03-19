@@ -81,14 +81,14 @@ func appendAdsenseScript(content []byte) []byte {
 		// If Adsense script is on the same line as </head>, insert on a new line
 		if strings.Contains(string(content[headIndex:]), adsenseScript) {
 			headIndex = strings.Index(string(content[headIndex:]), adsenseScript)
-			return []byte(string(content[:headIndex]) + "\n" + adsenseScript + string(content[headIndex:]))
+			return []byte(string(content[:headIndex]) + "\n" + adsenseScript + "\n" + string(content[headIndex:]))
 		}
 		// If Adsense script is present but not on the same line as </head>, return the original content
 		return content
 	}
 
 	// Insert script before </head> tag
-	return []byte(string(content[:headIndex]) + "\n" + adsenseScript + string(content[headIndex:]))
+	return []byte(string(content[:headIndex]) + "\n" + adsenseScript + "\n" + string(content[headIndex:]))
 }
 
 // Function to load checked HTML files from the record
