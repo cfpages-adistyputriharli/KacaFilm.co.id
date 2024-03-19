@@ -1,9 +1,7 @@
-name: Auto Adsense Script Addition
+name: Manual Adsense Script Addition
 
 on:
-  push:
-    branches:
-      - main
+  workflow_dispatch:
 
 jobs:
   build:
@@ -31,33 +29,27 @@ jobs:
         run: go run adsense.go
 
       - name: Get Date
-        run: echo "DATE=$(date +'%Y-%m-%d')" >> $GITHUB_STATE
+        id: date
+        run: echo "::set-output name=date::$(date +'%Y-%m-%d')"
 
       - name: Check for Changes
+        id: git_changes
         run: |
           if git diff --exit-code; then
-            echo "CHANGES=false" >> $GITHUB_STATE
+            echo "::set-output name=changes::false"
           else
-            echo "CHANGES=true" >> $GITHUB_STATE
+            echo "::set-output name=changes::true"
           fi
 
-      - name: Check if GITHUB_STATE file exists
-        run: |
-          ls -l $GITHUB_STATE || echo "$GITHUB_STATE does not exist"
-
-      - name: Read Changes from State
-        id: read_state
-        run: echo "CHANGES=$(cat $GITHUB_STATE | grep CHANGES)" >> $GITHUB_STATE
-
       - name: Commit and Push Changes
-        if: steps.read_state.outputs.CHANGES == 'CHANGES=true'
+        if: steps.git_changes.outputs.changes == 'true'
         run: |
           git config --global user.email "github-actions@github.com"
           git config --global user.name "GitHub Actions"
           git add .
-          git commit -m "Add Google Adsense script on $DATE"
+          git commit -m "Add Google Adsense script on ${{ steps.date.outputs.date }}"
           git push
 
       - name: Display Message if Nothing Changed
-        if: steps.read_state.outputs.CHANGES == 'CHANGES=false'
+        if: steps.git_changes.outputs.changes == 'false'
         run: echo "Nothing changed, nothing to commit"
