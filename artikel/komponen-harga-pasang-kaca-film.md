@@ -1,0 +1,202 @@
+---
+article_id: KCF-10-06
+title: "Komponen Harga Pasang Kaca Film Mobil dan Gedung"
+slug: "komponen-harga-pasang-kaca-film"
+description: "Break down product, glazing/vehicle, removal/prep, access, waste, edges/seams, labor, travel, warranty, and risk"
+status: outline
+publication_date: "2026-04-22"
+publication_date_basis: editorial_backfill
+date_modified: null
+parent_topic: KCF-10
+primary_intent: "Understand price"
+reader_community: "Kacafilm.co.id"
+reader_address: "Sobat Kacafilm.co.id"
+final_route: "/artikel/komponen-harga-pasang-kaca-film.html"
+technical_review: required
+sources:
+  - "https://multimedia.3m.com/mws/media/1705610O/glass-checklist.pdf"
+  - "https://multimedia.3m.com/mws/media/1704892O/security-window-film.pdf"
+  - "https://windows.lbl.gov/optics-downloads"
+  - "https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-2021"
+  - "https://www.iso.org/standard/62469.html"
+  - "https://www.iso.org/standard/75209.html"
+  - "https://www.ul.com/thecodeauthority/knowledge/ul-fire-rated-doors-guide"
+  - "https://iwfa.com/installation-process/"
+  - "https://www.ggf.org.uk/downloads/window-film/"
+  - "https://iwfa.com/resources/"
+  - "https://multimedia.3m.com/mws/media/2405554O/3m-window-films-and-3m-ipa-for-flat-glass-applications-warranty-bulletin.pdf"
+  - "https://www.3m.com/3M/en_US/home-improvement-us/diywindowfilms/"
+---
+
+<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
+
+# Komponen Harga Pasang Kaca Film Mobil dan Gedung
+
+## Assignment lock
+
+- **Writer task:** Expand this file into one complete article answering: “Komponen Harga Pasang Kaca Film Mobil dan Gedung”
+- **Reader and situation:** Buyer
+- **Reader outcome:** Break down product, glazing/vehicle, removal/prep, access, waste, edges/seams, labor, travel, warranty, and risk
+- **Primary intent:** Understand price
+- **Reader community:** `Kacafilm.co.id`
+- **Primary friendly address:** `Sobat Kacafilm.co.id`
+- **Natural variants:** `Kawan Kacafilm.co.id` and `Teman Kacafilm.co.id`
+- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
+- **Scope boundary:** Excludes undated universal prices
+- **Final public route:** `/artikel/komponen-harga-pasang-kaca-film.html`
+- **Appointed CMS date:** `2026-04-22` (`editorial_backfill`; preserve exactly)
+- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
+- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+
+## Opening instructions
+
+- Open with the exact short salutation: **“Halo, Sobat Kacafilm.co.id!”**
+- Start with the concrete decision, confusion, risk, or costly shortcut behind **Komponen Harga Pasang Kaca Film Mobil dan Gedung**.
+- Give the short answer within the first two or three paragraphs.
+- State what evidence or condition can change that answer.
+- Later, sprinkle `Sobat Kacafilm.co.id`, `Kawan Kacafilm.co.id`, or `Teman Kacafilm.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
+- Do not use a generic industry-history or “Di era digital” introduction.
+
+## Evidence packet
+
+Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+
+### KR-01
+
+- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
+- **Purpose for this article:** Freeze the verified editorial scope for `kacafilm.co.id` and prevent family research from overriding this project's actual catalog boundaries.
+- **Safe grounded facts:** Each `PKF-01` through `PKF-16` family has six frozen articles. Commercial/service intent remains on the parent domain. The catalog repeatedly forbids generic compliance, savings, security, warranty, and compatibility promises.
+- **Limits:** Local scope is not technical evidence. Recheck the frozen files before adding outlines; do not create new parent topics or reassign intent from this research stage.
+
+### KR-11
+
+- **Original sources:** [3M glass checklist](https://multimedia.3m.com/mws/media/1705610O/glass-checklist.pdf), [3M safety/security installation bulletin](https://multimedia.3m.com/mws/media/1704892O/security-window-film.pdf), and [LBNL Optics downloads](https://windows.lbl.gov/optics-downloads).
+- **Purpose for this article:** Define the minimum evidence package before specification, pricing, or installation.
+- **Safe grounded facts:** Manufacturer guidance requires inspection/documentation of glass defects and site conditions before work. Optical data must be tied to a defined construction. A representative mockup must reproduce the critical glass, lighting, view, edge/interface, and installation condition to answer the intended question.
+- **Limits:** Remote photos cannot establish hidden construction, edge condition, or system approval. A mockup does not validate unrepresented panels or security/compliance performance. Apply GATE-02, GATE-07, and GATE-08.
+
+### KR-16
+
+- **Original sources:** [PP No. 16 Tahun 2021 — BPK](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-2021), [ISO 29584:2015 abstract](https://www.iso.org/standard/62469.html), [ISO 16936-1:2020 abstract](https://www.iso.org/standard/75209.html), [UL fire-rated door guide](https://www.ul.com/thecodeauthority/knowledge/ul-fire-rated-doors-guide), and [3M safety/security installation bulletin](https://multimedia.3m.com/mws/media/1704892O/security-window-film.pdf).
+- **Purpose for this article:** Give every topic a common verification ladder from claim to installed evidence.
+- **Safe grounded facts:** A standard abstract defines scope but not project compliance. A test report is relevant only to the tested threat and configuration. A product data sheet is not an installation record. A label or visual marking is a lead until traced. A completed checklist can document inputs without guaranteeing approval.
+- **Limits:** Do not declare regulatory compliance, safety, security, fire-rating preservation, sensor acceptance, compatibility, or warranty entitlement from an incomplete chain. Use the explicit gates below. ## Topic-family coverage matrix | Topic family | Main evidence records | Safe ground for the article set | Remaining gate before definitive drafting | | --- | --- | --- | --- | | `KCF-01` | KR-01, KR-07, KR-10, KR-11, KR-08 | Window-film fundamentals and metrics; use only the sourced definitions, decision inputs, system boundaries, and evidence practices in those records. | GATE-01, GATE-02, GATE-04, GATE-05; resolve the applicable project/product/professional evidence before exact selection, dimensions, ratings, compliance, or warranty claims. | | `KCF-02` | KR-01, KR-06, KR-07, KR-09, KR-08 | Film types and product construction; use only the sourced definitions, decision inputs, system boundaries, and evidence practices in those records. | GATE-01, GATE-02, GATE-04, GATE-05; resolve the applicable project/product/professional evidence before exact selection, dimensions, ratings, compliance, or warranty claims. | | `KCF-03` | KR-01, KR-07, KR-10, KR-08, KR-05 | Solar heat, energy, and comfort; use only the sourced definitions, decision inputs, system boundaries, and evidence practices in those records. | GATE-01, GATE-02, GATE-04; resolve the applicable project/product/professional evidence before exact selection, dimensions, ratings, compliance, or warranty claims. | | `KCF-04` | KR-01, KR-02, KR-08, KR-11, KR-07 | Visible light, glare, privacy, and appearance; use only the sourced definitions, decision inputs, system boundaries, and evidence practices in those records. | GATE-01, GATE-02, GATE-04; resolve the applicable project/product/professional evidence before exact selection, dimensions, ratings, compliance, or warranty claims. | | `KCF-05` | KR-01, KR-07, KR-10, KR-11, KR-08 | UV, fading, and interior protection; use only the sourced definitions, decision inputs, system boundaries, and evidence practices in those records. | GATE-01, GATE-02, GATE-04, GATE-05; resolve the applicable project/product/professional evidence before exact selection, dimensions, ratings, compliance, or warranty claims. | | `KCF-06` | KR-01, KR-04, KR-09, KR-16, KR-06 | Safety, security, and impact films; use only the sourced definitions, decision inputs, system boundaries, and evidence practices in those records. | GATE-01, GATE-02, GATE-04, GATE-05; resolve the applicable project/product/professional evidence before exact selection, dimensions, ratings, compliance, or warranty claims. | | `KCF-07` | KR-01, KR-02, KR-03, KR-04, KR-08 | Automotive film selection and constraints; use only the sourced definitions, decision inputs, system boundaries, and evidence practices in those records. | GATE-01, GATE-02, GATE-04, GATE-05, GATE-08; resolve the applicable project/product/professional evidence before exact selection, dimensions, ratings, compliance, or warranty claims. | | `KCF-08` | KR-01, KR-02, KR-08, KR-11, KR-06 | Building film selection and use cases; use only the sourced definitions, decision inputs, system boundaries, and evidence practices in those records. | GATE-01, GATE-02, GATE-04, GATE-05, GATE-07; resolve the applicable project/product/professional evidence before exact selection, dimensions, ratings, compliance, or warranty claims. | | `KCF-09` | KR-01, KR-05, KR-10, KR-11, KR-07 | Glass compatibility and thermal stress; use only the sourced definitions, decision inputs, system boundaries, and evidence practices in those records. | GATE-01, GATE-02, GATE-04, GATE-05, GATE-06, GATE-07; resolve the applicable project/product/professional evidence before exact selection, dimensions, ratings, compliance, or warranty claims. | | `KCF-10` | KR-01, KR-11, KR-16, KR-12, KR-06 | Survey, specification, and estimating; use only the sourced definitions, decision inputs, system boundaries, and evidence practices in those records. | GATE-01, GATE-02, GATE-04, GATE-05, GATE-06, GATE-07; resolve the applicable project/product/professional evidence before exact selection, dimensions, ratings, compliance, or warranty claims. | | `KCF-11` | KR-01, KR-04, KR-09, KR-12, KR-11 | Installation process and quality control; use only the sourced definitions, decision inputs, system boundaries, and evidence practices in those records. | GATE-01, GATE-02, GATE-04, GATE-05, GATE-07, GATE-08; resolve the applicable project/product/professional evidence before exact selection, dimensions, ratings, compliance, or warranty claims. | | `KCF-12` | KR-01, KR-11, KR-12, KR-14, KR-05 | Defects, diagnosis, and remedy; use only the sourced definitions, decision inputs, system boundaries, and evidence practices in those records. | GATE-01, GATE-02, GATE-04, GATE-08; resolve the applicable project/product/professional evidence before exact selection, dimensions, ratings, compliance, or warranty claims. | | `KCF-13` | KR-01, KR-14, KR-15, KR-12, KR-08 | Cleaning, maintenance, removal, and lifecycle; use only the sourced definitions, decision inputs, system boundaries, and evidence practices in those records. | GATE-01, GATE-02, GATE-04, GATE-05, GATE-07; resolve the applicable project/product/professional evidence before exact selection, dimensions, ratings, compliance, or warranty claims. | | `KCF-14` | KR-01, KR-06, KR-11, KR-15, KR-16 | Claims, brands, procurement, contractor, and handover; use only the sourced definitions, decision inputs, system boundaries, and evidence practices in those records. | GATE-01, GATE-02, GATE-03, GATE-04, GATE-05, GATE-06, GATE-07, GATE-08; resolve the applicable project/product/professional evidence before exact selection, dimensions, ratings, compliance, or warranty claims. | Coverage result: **14/14 topic families mapped; 0 families without a starting evidence set.** ## Cross-catalog fact bank 1. A definition, method, regulation, product claim, and complete-system result are different evidence layers. 2. A source supports only its stated jurisdiction, edition, product, specimen, configuration, conditions, and public scope. 3. Standards abstracts identify documents and visible scope; exact requirements require the current full text. 4. Foreign standards and industry guidance do not automatically become Indonesian legal requirements. 5. Procurement and handover claims require current project, supplier, contract, test, warranty, and traceability evidence. ## Evidence gaps and publication gates | Gate | Affected topic families | Resolution required | | --- | --- | --- | | `GATE-01` licensed standards | `KCF-01`, `KCF-02`, `KCF-03`, `KCF-04`, `KCF-05`, `KCF-06`, `KCF-07`, `KCF-08`, `KCF-09`, `KCF-10`, `KCF-11`, `KCF-12`, `KCF-13`, `KCF-14` | Obtain and review current applicable standards before using exact requirements, tolerances, classifications, test values, or acceptance criteria. | | `GATE-02` Indonesian application and approval basis | `KCF-01`, `KCF-02`, `KCF-03`, `KCF-04`, `KCF-05`, `KCF-06`, `KCF-07`, `KCF-08`, `KCF-09`, `KCF-10`, `KCF-11`, `KCF-12`, `KCF-13`, `KCF-14` | Identify the current Indonesian national/local rule, approval path, and project specification that govern the actual application. | | `GATE-03` qualified technical design | `KCF-14` | A competent professional must verify design inputs, loads, interfaces, failure consequences, and the complete installed configuration. | | `GATE-04` current product/system evidence | `KCF-01`, `KCF-02`, `KCF-03`, `KCF-04`, `KCF-05`, `KCF-06`, `KCF-07`, `KCF-08`, `KCF-09`, `KCF-10`, `KCF-11`, `KCF-12`, `KCF-13`, `KCF-14` | Obtain exact current datasheets, test reports, listings/certificates, configurations, limitations, and evidence traceable to the offered product/system. | | `GATE-05` manufacturer compatibility and instructions | `KCF-01`, `KCF-02`, `KCF-05`, `KCF-06`, `KCF-07`, `KCF-08`, `KCF-09`, `KCF-10`, `KCF-11`, `KCF-13`, `KCF-14` | Obtain written compatibility, processing, installation, cleaning, maintenance, cure, and warranty instructions for selected materials/products. | | `GATE-06` site, user, and exposure facts | `KCF-09`, `KCF-10`, `KCF-14` | Verify dimensions, supports/substrates, environment, access, users, existing condition, interfaces, drainage, and operational constraints. | | `GATE-07` K3 and safe execution | `KCF-08`, `KCF-09`, `KCF-10`, `KCF-11`, `KCF-13`, `KCF-14` | Approve task-specific competent personnel, method, access/lifting controls, exclusion zones, PPE, emergency response, and stop-work conditions. | | `GATE-08` commercial, contract, and handover facts | `KCF-07`, `KCF-11`, `KCF-12`, `KCF-14` | Verify current scope, quotation assumptions, competence, submittals, exclusions, schedule, warranty, QC, traceability, and handover records. | ## Source-refresh triggers Recheck a record immediately when: - an Indonesian law, regulation, or official standard status changes; - a standards body publishes a new edition used by the article; - a manufacturer changes product scope, instructions, compatibility, test evidence, or warranty; - an article introduces a number, price, rating, classification, compliance statement, or safety procedure; - the target project/application differs from the exemplar's jurisdiction, user, product, configuration, or operating environment. ## Next authorized stage The later outline and constrained-writing-instruction stage may use this file only when separately authorized. Article drafting, Markdown article creation, HTML hydration, publication dating, sitemap generation, deployment, and Google Search Console submission are intentionally **not performed in this research stage**.
+
+### KR-12
+
+- **Original sources:** [3M safety/security installation bulletin, Revision C January 2025](https://multimedia.3m.com/mws/media/1704892O/security-window-film.pdf), [IWFA architectural installation overview](https://iwfa.com/installation-process/), and [GGF window-film document index](https://www.ggf.org.uk/downloads/window-film/).
+- **Purpose for this article:** Support process literacy, site controls, and evidence-based acceptance without turning articles into hazardous DIY instructions.
+- **Safe grounded facts:** 3M's named-product bulletin requires current technical documents, inspection of glass, written documentation of uncorrected defects, clean/dust-controlled conditions, and product-specific installation. It also acknowledges that some edge contamination or exterior optical limitations can be unavoidable in stated conditions. GGF lists industry documents on installation and visual quality, but full text access is gated.
+- **Limits:** Do not transplant 3M dimensions or cure periods to another film, allow blade work on uncertain coated glass, or give powered-door/fire-door DIY instructions. Obtain current product instructions and acceptance criteria under GATE-08.
+
+### KR-06
+
+- **Original sources:** [IWFA resources](https://iwfa.com/resources/), [3M flat-glass warranty bulletin dated 01 March 2026](https://multimedia.3m.com/mws/media/2405554O/3m-window-films-and-3m-ipa-for-flat-glass-applications-warranty-bulletin.pdf), and [3M DIY architectural-film FAQ](https://www.3m.com/3M/en_US/home-improvement-us/diywindowfilms/).
+- **Purpose for this article:** Define film families by intended function while controlling extrapolation from marketing terms.
+- **Safe grounded facts:** Manufacturer documentation separates sun-control, safety/security, anti-graffiti, and attachment products. The exact data sheet, specification, compatible glass, installation side, and market terms control a product claim.
+- **Limits:** The listed 3M products are examples, not recommendations. Do not generalize product availability, service life, warranty, or suitability to Indonesia. Apply GATE-03, GATE-07, and GATE-10.
+
+## Evidence gates
+
+- **GATE-01:** Resolve the gate from current project evidence and competent review.
+- **GATE-02:** Resolve the gate from current project evidence and competent review.
+- **GATE-04:** Resolve the gate from current project evidence and competent review.
+- **GATE-05:** Resolve the gate from current project evidence and competent review.
+- **GATE-06:** Resolve the gate from current project evidence and competent review.
+- **GATE-07:** Resolve the gate from current project evidence and competent review.
+
+If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
+
+## Internal-link plan
+
+### Existing local routes
+
+- `/pasang-kaca-film-pada-mobil-dengan-mudah` — use only if it helps the reader's next step; verify the anchor describes the destination.
+- `/tips-untuk-memasang-kaca-film-mobil` — use only if it helps the reader's next step; verify the anchor describes the destination.
+- `/tips-memilih-dan-memasang-kaca-film-mobil-murah` — use only if it helps the reader's next step; verify the anchor describes the destination.
+- `/tingkat-kegelapan-kaca-film-mobil` — use only if it helps the reader's next step; verify the anchor describes the destination.
+- `/merk-kaca-film-mobil-terbaik` — use only if it helps the reader's next step; verify the anchor describes the destination.
+- `/memilih-kaca-film-yang-sesuai-dengan-warna-mobil` — use only if it helps the reader's next step; verify the anchor describes the destination.
+
+### Planned sibling articles
+
+These are future routes. Do not link them as live until their HTML exists.
+
+- `KCF-10-04` → `/artikel/spesifikasi-kinerja-kaca-film.html` — Performance Specification Kaca Film
+- `KCF-10-05` → `/artikel/condition-report-kaca-film.html` — Condition Report Sebelum Pemasangan Kaca Film
+
+<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+
+## Definisikan kebutuhan sebelum meminta harga
+
+- **Purpose:** Nyatakan fungsi, kondisi, kuantitas, batas scope, antarmuka, dan hasil penerimaan.
+- **Tie back to this article:** Keep the explanation specific to “Komponen Harga Pasang Kaca Film Mobil dan Gedung”.
+- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
+- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
+- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+
+## Buat penawaran benar-benar sebanding
+
+- **Purpose:** Susun komponen scope, inklusi, eksklusi, asumsi, logistik, pengujian, dan risiko.
+- **Tie back to this article:** Keep the explanation specific to “Komponen Harga Pasang Kaca Film Mobil dan Gedung”.
+- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
+- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
+- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+
+## Dokumen yang membuktikan hal berbeda
+
+- **Purpose:** Bedakan data produk, sertifikat, laporan tes, metode, pengalaman, garansi, dan persetujuan.
+- **Tie back to this article:** Keep the explanation specific to “Komponen Harga Pasang Kaca Film Mobil dan Gedung”.
+- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
+- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
+- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+
+## Pertanyaan wajib kepada penyedia
+
+- **Purpose:** Buat daftar pertanyaan konkret yang mengungkap kapasitas, batas, tanggung jawab, dan perubahan.
+- **Tie back to this article:** Keep the explanation specific to “Komponen Harga Pasang Kaca Film Mobil dan Gedung”.
+- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
+- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
+- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+
+## Red flag dan biaya yang sering tersembunyi
+
+- **Purpose:** Jelaskan tanda scope kabur, klaim tanpa bukti, serta biaya akses, tunggu, rework, atau handover.
+- **Tie back to this article:** Keep the explanation specific to “Komponen Harga Pasang Kaca Film Mobil dan Gedung”.
+- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
+- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
+- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+
+## Penerimaan, serah terima, dan keputusan akhir
+
+- **Purpose:** Tentukan siapa memeriksa apa, rekaman yang disimpan, dan kapan pembayaran/acceptance layak.
+- **Tie back to this article:** Keep the explanation specific to “Komponen Harga Pasang Kaca Film Mobil dan Gedung”.
+- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
+- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
+- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+
+## Objection or shortcut to address
+
+- Identify one realistic shortcut a reader may prefer.
+- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
+- Give the safer or more reliable alternative.
+
+## Required conclusion
+
+- Answer the title again in one compact, non-repetitive form.
+- Give the reader the next action, document, question, inspection, or professional review to obtain.
+- End with an operating rule or honest boundary. Do not end with a generic summary.
+
+## Draft completion checklist
+
+- [ ] Opening answers the main question within two or three paragraphs.
+- [ ] The article opens with `Halo, Sobat Kacafilm.co.id!` and uses friendly `Kacafilm.co.id` community address naturally three to five times total.
+- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
+- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
+- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
+- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
+- [ ] Internal links use exact listed routes and helpful natural anchors.
+- [ ] Future sibling routes are not presented as live.
+- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
+- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
+- [ ] Conclusion gives a concrete next action and an honest limit.
